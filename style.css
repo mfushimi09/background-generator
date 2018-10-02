@@ -30,7 +30,13 @@ footer {
     letter-spacing: 0.1em;
 }
 
+a{
+  color: black;
+  text-decoration: none;
+}
+
+
+
 #random {
     margin: 15px;
-
 }
