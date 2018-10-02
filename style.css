@@ -27,6 +27,8 @@ h3 {
 footer {
     font: 0.5em 'Raleway', sans-serif;
     margin-top: auto;
+    text-transform: none; 
+    letter-spacing: none;
 }
 
 #random {
